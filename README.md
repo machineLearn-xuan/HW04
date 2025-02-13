@@ -1,4 +1,4 @@
-# Homework04
+# Homework04 - Complete
 
 Some exercises with image files and pixel arrays.
 
